@@ -4,5 +4,6 @@ git status
 git log
 git commit
 git clone url
-git push url
+git push -u origin
 git pull url
+git remote add (ori아무거나 가능) http://github
